@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Code\\Erp\\ErpSystem\\ErpSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9BA49-0BF1-4EA1-AAF8-0D28930CA354}|ErpSystem.UserService.Api\\ErpSystem.UserService.Api.csproj|g:\\code\\erp\\erpsystem\\erpsystem\\erpsystem.userservice.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9BA49-0BF1-4EA1-AAF8-0D28930CA354}|ErpSystem.UserService.Api\\ErpSystem.UserService.Api.csproj|solutionrelative:erpsystem.userservice.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9BA49-0BF1-4EA1-AAF8-0D28930CA354}|ErpSystem.UserService.Api\\ErpSystem.UserService.Api.csproj|g:\\code\\erp\\erpsystem\\erpsystem\\erpsystem.userservice.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32D9BA49-0BF1-4EA1-AAF8-0D28930CA354}|ErpSystem.UserService.Api\\ErpSystem.UserService.Api.csproj|solutionrelative:erpsystem.userservice.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "G:\\Code\\Erp\\ErpSystem\\ErpSystem\\ErpSystem.UserService.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ErpSystem.UserService.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "G:\\Code\\Erp\\ErpSystem\\ErpSystem\\ErpSystem.UserService.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ErpSystem.UserService.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:42:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "G:\\Code\\Erp\\ErpSystem\\ErpSystem\\ErpSystem.UserService.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "ErpSystem.UserService.Api\\Dockerfile",
+              "ToolTip": "G:\\Code\\Erp\\ErpSystem\\ErpSystem\\ErpSystem.UserService.Api\\Dockerfile",
+              "RelativeToolTip": "ErpSystem.UserService.Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-17T20:35:07.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
